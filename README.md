@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Mangement System (교육용 React 프로그램)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
